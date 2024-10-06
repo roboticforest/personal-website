@@ -1,0 +1,3 @@
+# Ignore GhostWriter backups and logs.
+*.md.backup
+log.txt
